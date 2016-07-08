@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-not original
-=======
-original and change
->>>>>>> Stashed changes
-tttttttttt
+only one line
